@@ -1,0 +1,25 @@
+_repo: The-Sheridan-Road-Mystery_3784
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Thorne, Paul
+    gutenberg_agent_id: '1302'
+    url: http://www.gutenberg.org/2009/agents/1302
+  - agent_name: Thorne, Mabel
+    gutenberg_agent_id: '1303'
+    url: http://www.gutenberg.org/2009/agents/1303
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories, American'
+- !lcc 'PS'
+- GITenberg
+title: The Sheridan Road Mystery
+url: http://www.gutenberg.org/ebooks/3784
